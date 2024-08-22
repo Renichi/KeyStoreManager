@@ -1,0 +1,10 @@
+{
+  "name": "com.isoda.keystoremanager",
+  "displayName": "KeyStoreManager",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "description.",
+  "author": {
+    "name": "KeyStoreManager"
+  }
+}
